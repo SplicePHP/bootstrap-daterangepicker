@@ -13,9 +13,5 @@
         "tests",
         "moment.js",
         "moment.min.js"
-    ],
-    "dependencies": {
-        "jquery": ">=1.10",
-        "moment": "~2"
-    }
+    ]
 }
